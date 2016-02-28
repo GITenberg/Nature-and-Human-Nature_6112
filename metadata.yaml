@@ -1,0 +1,24 @@
+_repo: Nature-and-Human-Nature_6112
+creator:
+  author:
+    agent_name: Haliburton, Thomas Chandler
+    alias: Slick, Sam
+    birthdate: 1796
+    deathdate: 1865
+    gutenberg_agent_id: '1880'
+    url: http://www.gutenberg.org/2009/agents/1880
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Chandler_Haliburton
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slick, Sam (Fictitious character) -- Fiction'
+- !lcc 'PS'
+title: Nature and Human Nature
+url: http://www.gutenberg.org/ebooks/6112
