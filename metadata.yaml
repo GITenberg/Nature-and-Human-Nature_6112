@@ -1,5 +1,5 @@
 _repo: Nature-and-Human-Nature_6112
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Slick, Sam (Fictitious character) -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: Nature and Human Nature
 url: http://www.gutenberg.org/ebooks/6112
